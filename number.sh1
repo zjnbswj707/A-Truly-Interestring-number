@@ -1,0 +1,1 @@
+[Math]::E * [Math]::Pow((([Math]::E+[Math]::PI)*([Math]::E*2+[Math]::PI)),[Math]::E)+ [Math]::E / (([Math]::Pow([Math]::PI, [Math]::E)-[Math]::E)*([Math]::E+[Math]::Pow([Math]::E, [Math]::PI)-[Math]::Pow([Math]::PI, [Math]::E)))
